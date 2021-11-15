@@ -1,0 +1,118 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_size": 706832,
+  "description": "",
+  "download_checksums": {
+    "C:\\Users\\kjp19\\Downloads\\WiC\\WiC\\train.jsonl": {
+      "num_bytes": 1115516,
+      "checksum": "119fde0335c9eee0fc06422a929daf586618548f5b71a34fdef6bf699374319d"
+    }
+  },
+  "download_size": 1115516,
+  "features": {
+    "attention_mask": {
+      "feature": {
+        "dtype": "int8",
+        "id": null,
+        "_type": "Value"
+      },
+      "length": -1,
+      "id": null,
+      "_type": "Sequence"
+    },
+    "end1": {
+      "dtype": "int64",
+      "id": null,
+      "_type": "Value"
+    },
+    "end2": {
+      "dtype": "int64",
+      "id": null,
+      "_type": "Value"
+    },
+    "idx": {
+      "dtype": "int64",
+      "id": null,
+      "_type": "Value"
+    },
+    "input_ids": {
+      "feature": {
+        "dtype": "int32",
+        "id": null,
+        "_type": "Value"
+      },
+      "length": -1,
+      "id": null,
+      "_type": "Sequence"
+    },
+    "label": {
+      "dtype": "bool",
+      "id": null,
+      "_type": "Value"
+    },
+    "sentence1": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "sentence2": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    },
+    "start1": {
+      "dtype": "int64",
+      "id": null,
+      "_type": "Value"
+    },
+    "start2": {
+      "dtype": "int64",
+      "id": null,
+      "_type": "Value"
+    },
+    "token_type_ids": {
+      "feature": {
+        "dtype": "int8",
+        "id": null,
+        "_type": "Value"
+      },
+      "length": -1,
+      "id": null,
+      "_type": "Sequence"
+    },
+    "version": {
+      "dtype": "float64",
+      "id": null,
+      "_type": "Value"
+    },
+    "word": {
+      "dtype": "string",
+      "id": null,
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "post_processed": null,
+  "post_processing_size": null,
+  "size_in_bytes": 1822348,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 706832,
+      "num_examples": 5000,
+      "dataset_name": "json"
+    }
+  },
+  "supervised_keys": null,
+  "task_templates": null,
+  "version": {
+    "version_str": "0.0.0",
+    "description": null,
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
