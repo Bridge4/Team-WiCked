@@ -1,0 +1,12 @@
+Team Name: WiCked
+
+Task: WiC
+
+Team Members:
+Kaleb Park
+Omar Kaheel
+Caroline Hernandez
+Sayed Abdulmohsen Alhashemi
+Spencer Nikolaeff
+
+Accuracy: 0.71
