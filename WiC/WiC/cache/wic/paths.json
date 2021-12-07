@@ -1,0 +1,5 @@
+{
+  "train": "./cache/wic/train",
+  "val": "./cache/wic/val",
+  "val_labels": "./cache/wic/val_labels"
+}

@@ -1,0 +1,9 @@
+{
+  "task": "wic",
+  "paths": {
+    "train": "/Users/omar/Downloads/Team-WiCked/WiC/WiC/tasks/data/wic/train.jsonl",
+    "test": "/Users/omar/Downloads/Team-WiCked/WiC/WiC/tasks/data/wic/test.jsonl",
+    "val": "/Users/omar/Downloads/Team-WiCked/WiC/WiC/tasks/data/wic/val.jsonl"
+  },
+  "name": "wic"
+}

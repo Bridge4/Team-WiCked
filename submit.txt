@@ -10,3 +10,19 @@ Sayed Abdulmohsen Alhashemi
 Spencer Nikolaeff
 
 Accuracy: 0.71
+
+final notebook: WiC/WiC/Jiant_Roberta_Wic.ipynb
+
+final model was too big to upload to canvas so it is stored on google drive: https://drive.google.com/uc?id=1-4xcpTx2P323-bA8OpCNMrXC6fHYyr1b&export=download
+
+model stats at the very end of notebook:
+
+{
+  "aggregated": 0.7100313479623824,
+  "wic": {
+    "loss": 0.7485662378370762,
+    "metrics": {
+      "major": 0.7100313479623824,
+      "minor": {
+        "acc": 0.7100313479623824
+      }
